@@ -16,22 +16,3 @@ Here are some ideas to get you started:
 -->
 
 [![xumou's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xumou1&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="
-      https://raw.githubusercontent.com/xumou1/snk/output/github-contribution-grid-snake-dark.svg
-    "
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="
-      https://raw.githubusercontent.com/xumou1/snk/output/github-contribution-grid-snake.svg
-    "
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/xumou1/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
