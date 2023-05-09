@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![xumou's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xumou1)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![xumou's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xumou1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
